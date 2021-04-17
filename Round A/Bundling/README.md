@@ -10,7 +10,7 @@ You can see [solution analysis](/Round%20A/Bundling/analysis.md) extracted from 
 
 ## Problem
 
-Pip has **N** strings. Each string consists only of letters from `A` to `Z. Pip would like to bundle their strings into _groups_ of size . Each string must belong to exactly one group.
+Pip has **N** strings. Each string consists only of letters from `A` to `Z`. Pip would like to bundle their strings into _groups_ of size . Each string must belong to exactly one group.
 
 The _score_ of a group is equal to the length of the longest prefix shared by all the strings in that group. For example:
 
