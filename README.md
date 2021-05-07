@@ -17,3 +17,19 @@ This project contains my solutions for [Kick Start 2020 competition](https://cod
 ## Round D
 
 - [Problem statements and solutions](/Round%20D)
+
+## Round E
+
+- [Problem statements and solutions](/Round%20E)
+
+## Round F
+
+- [Problem statements and solutions](/Round%20F)
+
+## Round G
+
+- [Problem statements and solutions](/Round%20G)
+
+## Round H
+
+- [Problem statements and solutions](/Round%20H)
