@@ -3,6 +3,7 @@
 ## Solution code
 
 See [solution source code](/Round%20D/Beauty%20of%20tree/solution.js)
+
 See [c++ solution source code](/Round%20D/Beauty%20of%20tree/solution.cpp)
 
 ## Analysis
